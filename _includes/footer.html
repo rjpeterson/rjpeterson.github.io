@@ -1,8 +1,6 @@
 <!-- begin footer -->
 <footer class="footer">
-
   <div class="footer__inner">
-
     <div class="container">
       <div class="footer__author">
         <div class="footer__author-info">
@@ -12,8 +10,14 @@
             <ul class="social__list list-reset">
               {% for social in site.data.settings.social %}
               <li class="social__item">
-                <a class="social__link" href="{{social.link}}" target="_blank" rel="noopener"
-                  aria-label="Social link"><i class="ion {{social.icon}}"></i></a>
+                <a
+                  class="social__link"
+                  href="{{social.link}}"
+                  target="_blank"
+                  rel="noopener"
+                  aria-label="Social link"
+                  ><i class="ion {{social.icon}}"></i
+                ></a>
               </li>
               {% endfor %}
             </ul>
@@ -30,10 +34,14 @@
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Published with <a href="https://jekyllrb.com/">Jekyll</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        <div class="copyright">
+          {{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>.
+          <a target="_blank" href="https://icons8.com/icon/ZEZmzxug8Bzx/bicycle">Bicycle</a> icon by
+          <a target="_blank" href="https://icons8.com">Icons8</a>. Crafted & Designed by
+          <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.
+        </div>
       </div>
     </div>
   </div>
-
 </footer>
 <!-- end footer -->
