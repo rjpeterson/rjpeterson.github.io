@@ -5,10 +5,10 @@ category: Activism
 date: 2013-10-02 08:01:35 +0300
 role: Organizing Team Member
 image: '/images/bikebike-4.jpg'
-image_caption: "Image by Dan Zlotsky"
+image_caption: 'Image by Dan Zlotsky'
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
+In 2013 I was a part of the core organizing team for BikeBike, an international conference for community bike projects. Every year, a different North American city steps up to host this international conference of hundreds of transit activists from around the world. As a member of the board of directors for the New Orleans Community Bike Project, I was honored to participate in the organizing effort for such a huge event.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -19,12 +19,16 @@ Hardcover books have a stiff binding. Paperback books have cheaper, flexible cov
   <em>Images by Brian O'Doherty and Michael Providenti</em>
 </div>
 
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
+My responsibilities during the conference organizing were:
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+- Find ~100 local residents who were willing to host conference attendees in their homes for up to four days
+- Assess surveys filled out by hosts and guests and identify good matches as well as potential conflicts to ensure safe spaces for all guests
+- Connect guests with hosts and moderate race, gender and interpersonal issues as they occur in real-time
+- Building and managing a fleet of >100 loaner bikes for conference guests
 
-Publishers may produce low-cost, pre-publication copies known as galleys or 'bound proofs' for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.
+> Bike!Bike! is an international, annual gathering organized by and for community bicycle projects. The conference is a space for participants from shops and related advocacy groups to converge in a different city each year over a 4 day period to have workshops and strengthen our social network.
+>
+> <cite>- bikebike.org</cite>
 
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
-
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
+![Schedule]({{site.baseurl}}/images/bikebike-6.jpg)
+*One afternoon worth of workshops that were held at BikeBike 2013*

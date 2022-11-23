@@ -1,10 +1,10 @@
+---
 #-------------------------------
 # Site Settings
 title: Ryan Peterson
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Programmer, Machinist, Piano Technician
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
 
 #-------------------------------
 # Navigation Settings
@@ -16,15 +16,16 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
+    - title: 'Resume'
+      url: '/resume/'
+    # - title: 'Writing'
+      # url: '/blog/'
+    # - title: 'Pages'
+    # submenu:
+    - title: 'Contact'
+      url: '/contact/'
+      # - url: '/elements/'
+      # title: 'Elements'
 
 #-------------------------------
 # Author Settings
@@ -34,22 +35,20 @@ author:
   author__avatar: '/images/profile.jpg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/djmouthguard"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/djmouthguard/"}
-- {icon: "ion-logo-github", link: "https://github.com/rjpeterson"}
+  - { icon: 'ion-logo-twitter', link: 'https://twitter.com/djmouthguard' }
+  - { icon: 'ion-logo-instagram', link: 'https://www.instagram.com/djmouthguard/' }
+  - { icon: 'ion-logo-github', link: 'https://github.com/rjpeterson' }
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Ryan Peterson
+  hero__title: Hello, I’m Ryan Peterson
   hero__description: I'm passionate about Metalwork, Computer Programming, Piano Tuning, Chinese language and above all else - Bicycles.
-  hero__image: "/images/hero.jpeg"
-
+  hero__image: '/images/hero.jpeg'
 
 #-------------------------------
 # Logos Settings
@@ -60,11 +59,11 @@ logos:
 logo__items:
   - name: Fusion360
     # link: "https://www.google.com/"
-    image: "/images/fusion-360.png"
+    image: '/images/fusion-360.png'
 
   - name: ReactJs
     # link: "https://www.spotify.com/"
-    image: "/images/react.png"
+    image: '/images/react.png'
 
   # - name: Pinterest
   #   link: "https://www.pinterest.com/"
@@ -90,14 +89,12 @@ logo__items:
 #   mailchimp__input__text: Your email address...
 #   mailchimp__button__text: Subscribe
 
-
 #-------------------------------
 # Work Settings
 work:
   enable: true
   work__title: Work
-  work__description: Over the years I have built so many things that I am immensely proud of
-
+  work__description: Over the years I have built so many things that I am immensely proud of.
 
 #-------------------------------
 # Testimonials Section
@@ -162,7 +159,6 @@ work:
 #     link: "https://twitter.com/"
 #     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-
 #-------------------------------
 # Blog Section
 blog:
@@ -172,10 +168,9 @@ blog__settings:
   blog__title: Writing
   blog__description:
 
-
 #-------------------------------
 # Footer Settings
-footer__background__image: "/images/bg.jpg"
+footer__background__image: '/images/bg.jpg'
 
 #-------------------------------
 # Contact Settings
@@ -186,13 +181,11 @@ contact:
 # NOTE
 # Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
   enable: true
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
 
 #-------------------------------
 # Google Analytics
