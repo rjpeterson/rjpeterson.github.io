@@ -19,7 +19,7 @@ menu__settings:
     - title: 'Resume'
       url: '/resume/'
     # - title: 'Writing'
-      # url: '/blog/'
+    # url: '/blog/'
     # - title: 'Pages'
     # submenu:
     - title: 'Contact'
@@ -83,11 +83,11 @@ logo__items:
 
 #-------------------------------
 # Newsletter
-# mailchimp:
-#   enable: true
-#   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-#   mailchimp__input__text: Your email address...
-#   mailchimp__button__text: Subscribe
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address...
+  mailchimp__button__text: Subscribe
 
 #-------------------------------
 # Work Settings
@@ -98,71 +98,29 @@ work:
 
 #-------------------------------
 # Testimonials Section
-# testimonials:
-#   enable: true
+testimonials:
+  enable: false
 
-# testimonial__title: Clients
-# testimonial__description:
+testimonial__title: Clients
+testimonial__description:
 
-# testimonial__items:
-#   - name: "Hanna Septimus"
-#     image: "/images/client-1.jpg"
-#     designation: "Product Designer"
-#     link: "https://twitter.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+testimonial__items:
+  - name: "Hanna Septimus"
+    image: "/images/client-1.jpg"
+    designation: "Product Designer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-#   - name: "Carla Rosser"
-#     image: "/images/client-2.jpg"
-#     designation: "Statistician"
-#     link: "https://facebook.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Maria Curtis"
-#     image: "/images/client-3.jpg"
-#     designation: "Team Lead"
-#     link: "https://twitter.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Carter Bergson"
-#     image: "/images/client-4.jpg"
-#     designation: "CEO, Founder"
-#     link: "https://facebook.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Jordyn Franci"
-#     image: "/images/client-5.jpg"
-#     designation: "Personal Trainer"
-#     link: "https://twitter.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Mira Carder"
-#     image: "/images/client-6.jpg"
-#     designation: "Data Scientist"
-#     link: "https://facebook.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Madelyn Herwitz"
-#     image: "/images/client-7.jpg"
-#     designation: "Frontend Engineer"
-#     link: "https://twitter.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Anika Schleifer"
-#     image: "/images/client-8.jpg"
-#     designation: "Fitness Director"
-#     link: "https://facebook.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#   - name: "Wilson Dorwart"
-#     image: "/images/client-9.jpg"
-#     designation: "Financial Manager"
-#     link: "https://twitter.com/"
-#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+  - name: "Carla Rosser"
+    image: "/images/client-2.jpg"
+    designation: "Statistician"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 #-------------------------------
 # Blog Section
 blog:
-  enable: true
+  enable: false
 
 blog__settings:
   blog__title: Writing
@@ -170,7 +128,7 @@ blog__settings:
 
 #-------------------------------
 # Footer Settings
-footer__background__image: '/images/bg.jpg'
+footer__background__image: '/images/bg.jpeg'
 
 #-------------------------------
 # Contact Settings
