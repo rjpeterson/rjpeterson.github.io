@@ -1,3 +1,5 @@
+$assetsPath : "/assets/images";
+
 /* Header */
 .header {
   margin-bottom: 20px;
@@ -336,12 +338,12 @@
 }
 
 .toggle-moon {
-  background-image: var(--icon-moon);
+  background-image: url(#{$assetsPath}/icon-sun.svg);
 }
 
 .toggle-sun {
   display: none;
-  background-image: var(--icon-sun);
+  background-image: url(#{$assetsPath}/icon-moon.svg);
 }
 
 .dark-mode {
