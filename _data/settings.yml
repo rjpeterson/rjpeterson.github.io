@@ -48,38 +48,35 @@ hero:
   enable: true
   hero__title: Hello, I’m Ryan Peterson
   hero__description: I'm passionate about Metalwork, Computer Programming, Piano Tuning, Chinese language and above all else - Bicycles.
-  hero__image: '/images/hero.jpeg'
+  hero__image: '/images/hero.jpg'
 
 #-------------------------------
 # Logos Settings
 logos:
   enable: true
-  logos__title: I’ve developed some great skills over the years
+  logos__title: Through hard work and perseverence I’ve developed many unique skills...
 
-logo__items:
-  - name: Fusion360
+logo__items: 
+  - name: Design
     # link: "https://www.google.com/"
-    image: '/images/fusion-360.png'
+    image: '/images/words-1.svg'
 
-  - name: ReactJs
+  - name: Web Dev
     # link: "https://www.spotify.com/"
-    image: '/images/react.png'
+    image: '/images/words-2.svg'
 
-  # - name: Pinterest
-  #   link: "https://www.pinterest.com/"
-  #   image: "/images/pinterest.svg"
+  - name: Metalwork
+    # link: "https://www.spotify.com/"
+    image: '/images/words-3.svg'
 
-  # - name: Netlify
-  #   link: "https://www.netlify.com/"
-  #   image: "/images/netlify.svg"
+  - name: Chinese
+    # link: "https://www.spotify.com/"
+    image: '/images/words-4.svg'
+    
+  - name: Piano Tech
+    # link: "https://www.spotify.com/"
+    image: '/images/words-5.svg'
 
-  # - name: Apple
-  #   link: "https://www.apple.com/"
-  #   image: "/images/apple.svg"
-
-  # - name: Adobe
-  #   link: "https://www.adobe.com/"
-  #   image: "/images/adobe.svg"
 
 #-------------------------------
 # Newsletter

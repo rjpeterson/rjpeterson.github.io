@@ -16,3 +16,5 @@ As a kid I was always tinkering in my dad's basement workshop. I even had my own
     <img src="/images/about-3.jpg" loading="lazy">
   </div>
 </div>
+
+This page is a work in progress...
