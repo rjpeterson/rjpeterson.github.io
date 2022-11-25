@@ -6,7 +6,6 @@ date: 2017-01-01 08:01:35 +0300
 client: Dashing Bicycles
 role: General Manager
 image: '/images/dashing-1.png'
-# image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 
 As the general manager and lead mechanic at Dashing Bicycles, I took it as my personal mission to increase effeciency in all aspects of shop operation. Over several years I developed and standardized everything from repair check-ins to inventory checking. I also documented in detail advanced repair procedures to use in training new mechanics. Additionaly, I wrote several R scripts to automate common tasks related to inventory and stock ordering. I have included below a handful of the documentation that I produced during my time as General Manager.
