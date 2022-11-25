@@ -22,8 +22,22 @@ So, I created Hanzisize, a browser extension to selectively adjust the size only
 
 After an enthusiastic reception from the Chinese learning community, I decided to extend the funcionality of Hanzisize to support a total of ten non-Latin script languages including Arabic, Hebrew, Thai and Korean.
 
-- [Hanzisize Home Page](https://rjpeterson.github.io/hanzisize-about/)
-- [Hanzisize Source Code](https://github.com/rjpeterson/Hanzisize)
+### Tools Used:
+* ReactJs
+* Chrome Extensions API
+* Figma
+* MaterialUI
+* Affinity Designer
+* Jest
+
+### Skills Developed:
+* Unit & Integration Testing
+* Graphic Design
+* UX / UI
+* Marketing
+
+[Hanzisize Home Page](https://rjpeterson.github.io/hanzisize-about/)\
+[Hanzisize Source Code](https://github.com/rjpeterson/Hanzisize)
 
 > Works great, and really simple to use!
 >

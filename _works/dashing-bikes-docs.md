@@ -18,3 +18,16 @@ As the general manager and lead mechanic at Dashing Bicycles, I took it as my pe
 - [Wheel Inventory Checklist]({{site.baseurl}}/images/dashing-6.pdf)
 - [Frame Alignment Procedure]({{site.baseurl}}/images/dashing-7.pdf)
 - [R script for collecting most commonly ordered items]({{site.baseurl}}/images/dashing-8.txt)
+
+### Tools Used:
+
+- Microsoft Word
+- Microsoft Excel
+- R
+
+### Skills Developed:
+
+- Technical Writing
+- Technical Pedagogy
+- Organization
+- Data Analysis

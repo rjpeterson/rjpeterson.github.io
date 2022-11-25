@@ -1,5 +1,5 @@
 ---
-title: BikeBike 2013
+title: BikeBike 2013 Organizing
 description: An international conference for community bike shops. Attended by over 300 transit activists from 10 different countries.
 category: Activism
 date: 2013-10-02 08:01:35 +0300
@@ -19,12 +19,26 @@ In 2013 I was a part of the core organizing team for BikeBike, an international 
   <em>Images by Brian O'Doherty and Michael Providenti</em>
 </div>
 
-My responsibilities during the conference organizing were:
+My responsibilities during the conference organizing included:
 
 - Find ~100 local residents who were willing to host conference attendees in their homes for up to four days
 - Assess surveys filled out by hosts and guests and identify good matches as well as potential conflicts to ensure safe spaces for all guests
 - Connect guests with hosts and moderate race, gender and interpersonal issues as they occur in real-time
 - Building and managing a fleet of >100 loaner bikes for conference guests
+
+
+### Tools Used:
+* Google Forms
+* Microsoft Excel
+* Email Listserve
+* Blameless Post-Mortems
+
+### Skills Developed:
+* Interpersonal Management
+* Clear Communication
+* Social Issue Awareness
+* Bicycle Mechanics
+* Conflict Resolution
 
 > Bike!Bike! is an international, annual gathering organized by and for community bicycle projects. The conference is a space for participants from shops and related advocacy groups to converge in a different city each year over a 4 day period to have workshops and strengthen our social network.
 >

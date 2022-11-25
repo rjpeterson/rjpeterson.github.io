@@ -9,13 +9,14 @@ image: '/images/translation-1.png'
 # image_caption: 'Photo by [Freepik](https://www.freepik.com/)'
 ---
 
-This page is a currently under construction...
+In late 2021, Mango Markets was the most widely used derivatives trading platform on Solana. At the time though, the user interface was only available in English. I took it upon myself to implement the react-i18next localization framework and then translate and maintain over 1000 unique words and phrases used across the site into Traditional and Simplified Chinese. My initial work on the framework as well as collecting all of the phrases to translate made successive translations into Russion, Korean and Spanish much easier.
+
+### Tools Used:
+* React-i18next
+* ReactJs
+
+### Skills Developed:
+* Chinese Translation
+* Webpage Localization
 
 [Github Repo](https://github.com/rjpeterson/mango-ui-v3)
-<!-- <div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/work-1-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/work-1-3.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
-</div> -->
