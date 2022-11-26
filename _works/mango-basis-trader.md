@@ -2,7 +2,7 @@
 title: Mango Basis Trader
 description: An arbitrage bot that finds and executes basis trades on Mango Markets derivatives trading platform
 category: Finance
-date: 2022-09-01 08:01:35 +0300
+date: 2022-07-01 08:01:35 +0300
 client: Mango Markets
 role: Lead Developer
 image: '/images/basistrader-1.jpg'

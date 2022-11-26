@@ -2,7 +2,7 @@
 title: Mango Markets Watch
 description: A browser extension that allows users of the Mango Markets platform to easily monitor borrow, lend and funding rates
 category: Web Development
-date: 2022-01-01 08:01:35 +0300
+date: 2022-09-01 08:01:35 +0300
 client: Mango Markets
 role: Developer
 image: '/images/mmw-1.png'

@@ -2,7 +2,7 @@
 title: Hanzisize
 description: The browser extension that makes reading Chinese online easier. Resize text on demand.
 category: Web Development
-date: 2019-01-01 08:01:35 +0300
+date: 2022-06-01 08:01:35 +0300
 role: Developer
 image: '/images/hanzisize-1.png'
 # image_caption: 'Photo by [Freepik](https://www.freepik.com/)'

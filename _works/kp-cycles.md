@@ -2,7 +2,7 @@
 title: KP Cycles
 description: Designed and built custom CroMoly bike frames and racks
 category: Metalworking
-date: 2012-01-01 08:01:35 +0300
+date: 2022-10-01 08:01:35 +0300
 client: Personal Project
 role: Framebuilder
 image: '/images/kpcycles-11.jpeg'
