@@ -12,26 +12,28 @@ image: '/images/kpcycles-11.jpeg'
 For much of my time in New Orleans I built custom lugged bike frames and racks out of my personal workshop. These frames were designed and built completely from scratch using aircraft grade CroMoly and stainless steel tubing. All tube mitering was done by hand and silver/bronze brazing was done first with traditional oxy-acetelyne and later with propane and oxygen supplied by a modified medical oxygen concentrator. Frame styles that I have built include touring, city, and track. I learned an incredible amount about precision and lightweight metalwork through conversing with other framebuilders, reading technical manuals and personal experimentation.
 
 ### Tools Used:
-* Oxygen-acetelyne torch
-* Oxygen-propane torch
-* Drill Press
-* Bench Grinder
-* Manual Lathe
-* Hand & Jeweler's Files
-* Abrasive Chop Saw
-* 123 Blocks
-* Micrometers & Dial/Vernier Calipers
-* Surface Plate & Height Gauge
-* Dial & Test Indicators
-* Tubing Bender
-* Autodesk Fusion360
+
+- Oxygen-acetelyne torch
+- Oxygen-propane torch
+- Drill Press
+- Bench Grinder
+- Manual Lathe
+- Hand & Jeweler's Files
+- Abrasive Chop Saw
+- 123 Blocks
+- Micrometers & Dial/Vernier Calipers
+- Surface Plate & Height Gauge
+- Dial & Test Indicators
+- Tubing Bender
+- Autodesk Fusion360
 
 ### Skills Developed:
-* Silver & Bronze Brazing
-* Design & Layout
-* Work Hardenign, Tempering & Annealing
-* Tube Mitering
-* Precison Measurement
+
+- Silver & Bronze Brazing
+- Design & Layout
+- Work Hardening, Tempering & Annealing
+- Tube Mitering
+- Precison Measurement
 
 <div class="gallery-box">
   <div class="gallery">
