@@ -91,7 +91,7 @@ mailchimp:
 work:
   enable: true
   work__title: Work
-  work__description: Over the years I have built so many things that I am immensely proud of.
+  work__description: Over the years I have built many things that I am immensely proud of.
 
 #-------------------------------
 # Testimonials Section
