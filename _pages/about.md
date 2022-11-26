@@ -11,8 +11,8 @@ I’ve always been a tinkerer. Even as a kid I would sneak downstairs into my fa
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/profile.jpg" loading="lazy">
     <img src="/images/about-2.jpg" loading="lazy">
+    <img src="/images/profile.jpg" loading="lazy">
     <img src="/images/about-3.jpg" loading="lazy">
   </div>
 </div>
