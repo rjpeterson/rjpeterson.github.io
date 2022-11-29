@@ -1,6 +1,6 @@
 ---
 title: KP Cycles
-description: Designed and built custom CroMoly bike frames and racks
+description: Custom brazed cromoly bike frames and touring racks
 category: Metalworking
 date: 2022-10-01 08:01:35 +0300
 client: Personal Project
