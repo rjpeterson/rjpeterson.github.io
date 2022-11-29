@@ -1,6 +1,6 @@
 ---
 title: Dashing Bicycles Documentation
-description: Created technical documentation for various repair processes and other shop workflows
+description: Technical documentation for various repair processes and other bike shop workflows
 category: Organization
 date: 2017-01-01 08:01:35 +0300
 client: Dashing Bicycles
