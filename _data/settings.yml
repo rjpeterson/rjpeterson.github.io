@@ -32,7 +32,7 @@ menu__settings:
 author:
   author__name: Ryan Peterson
   author__bio: I'm passionate about Metalwork, Computer Programming, Piano Tuning, Chinese language and above all else - Bicycles.
-  author__avatar: '/images/profile.jpg'
+  author__avatar: '/images/headshot.jpg'
 
 social:
   - { icon: 'ion-logo-twitter', link: 'https://twitter.com/djmouthguard' }
@@ -46,7 +46,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hello, I’m Ryan Peterson
+  hero__title: Hello, I’m Ryan
   hero__description: I'm passionate about Metalwork, Computer Programming, Piano Tuning, Chinese language and above all else - Bicycles.
   hero__image: '/images/hero.jpg'
 
